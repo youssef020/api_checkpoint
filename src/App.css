@@ -1,0 +1,19 @@
+
+.container{
+  border: 0px solid black;
+  margin: 10px;
+  border-radius: 25px;
+  background: rgb(140,3,3);
+background: linear-gradient(90deg, rgba(140,3,3,1) 14%, rgba(207,5,5,1) 35%, rgba(255,176,176,1) 95%);
+
+box-shadow: 2px 2px 2px 2px grey;
+}
+
+.elems{
+  margin: 10px;
+  color: white;
+}
+h3{
+  text-align: center;
+  color:black;
+}
